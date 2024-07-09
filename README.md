@@ -35,11 +35,11 @@ WellNest is a comprehensive health and wellness tracker dsigned to help users mo
 
 ## Installation:
 
-- 1. Clone this repository to your local machine.
+1. Clone this repository to your local machine.
 
 ```git clone https://github.com/notfounHeiCho/wellnest.git```
 
-- 2. Navigate to the project directory.
+2. Navigate to the project directory.
 
 ```cd WellNest```
 
