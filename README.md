@@ -6,7 +6,7 @@
 
 ## 🗒️Introduction:
 
-WellNest is a comprehensive health and wellness tracker dsigned to help users monitor their physical and mental well-being. It aslo provides tools for tracking daily activities, diet, sleep patterns, and more, promoting a balanced and healthy lifestyle.
+WellNest is a comprehensive health and wellness tracker dsigned to help users monitor their physical and mental well-being. It aslo provides tools for tracking daily activities, diet, sleep patterns, and more, promoting a balanced and healthy lifestyle. In another meaning, it is an app that helps users track their health and wellness habits. Such as sleep, water intake and meditation. Features might include reminders, progress tracking, and personalized tips.
 
 ## ✅ Features:
 
