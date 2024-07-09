@@ -1,6 +1,8 @@
 # WellNest - Health and Wellness Tracker
 
-![WellNest Logo](./assets/logo.png)
+<div align="center">
+  <img src="https://cdn.filestackcontent.com/no_metadata/output=format:webp/resize=w:180,h:128,fit:max/quality=value:70/compress/cache=expiry:max/fzcTLFC3TAeuUkT3EBeP" alt="Logo" width="180" height="128">
+</div>
 
 ## Introduction:
 
