@@ -1,5 +1,7 @@
 # WellNest - Health and Wellness Tracker
 
+![WellNest Logo](./assets/logo.png)
+
 ## Introduction:
 
 WellNest is an app that helps users track their health and wellness habits. Such as sleep, water intake and meditation. Features might include reminders, progress tracking, and personalized tips.
