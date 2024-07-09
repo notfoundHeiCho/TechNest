@@ -1,7 +1,7 @@
 # WellNest - Health and Wellness Tracker
 
 <div align="center">
-  <img src="https://cdn.filestackcontent.com/no_metadata/output=format:webp/resize=w:256,h:256,fit:max/quality=value:70/compress/cache=expiry:max/fzcTLFC3TAeuUkT3EBeP" alt="Logo" width="556" height="356">
+  <img src="https://cdn.filestackcontent.com/no_metadata/output=format:webp/resize=w:256,h:256,fit:max/quality=value:70/compress/cache=expiry:max/fzcTLFC3TAeuUkT3EBeP" alt="Logo" width="556" height="156">
 </div>
 
 ## Introduction:
