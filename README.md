@@ -49,17 +49,17 @@ This project is licensed under the MIT License.
 
 ## 📫 Contact:
 
-### - *Hajar Znaidi*:
+### - *Hajar Znaidi* :
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajarznaidi04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajar-znaidi-b2364a189/)
 
-### - *Mohamed Zouine*:
+### - *Mohamed Zouine* :
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zouinemohamade@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-zouine-5716a2252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-### - *Salah Eddine Ait Si Ahmad*:
+### - *Salah Eddine Ait Si Ahmad* :
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salaheddine.aitsiahmad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-ait-si-ahmad/)
