@@ -1,7 +1,7 @@
 # TechNest - Building Digital Solutions for a Better Tomorrow
 
 <div align="center">
-  <img src="/assets/technest.png" alt="Logo" width="556" height="156">
+  <img src="/assets/technest-removebg-preview.png.png" alt="Logo" width="556" height="156">
 </div>
 
 ## 🗒️Introduction:
