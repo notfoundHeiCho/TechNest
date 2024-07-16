@@ -39,4 +39,3 @@ WellNest, a comprehensive web application designed to help you manage and improv
 ## ©️ License:
 
 This project is licensed under the MIT License.
-
