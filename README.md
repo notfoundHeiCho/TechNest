@@ -23,7 +23,7 @@ What We Do:
 
 - **Commitment to Excellence**: Quality is at the heart of everything we do. Our team of experienced professionals is dedicated to delivering high-performance, secure, and reliable digital products.
 
-## 🛠️ Technologies Used:
+## 🛠️ Technologies:
 
 ➡️ **Front-End**:
 
@@ -43,11 +43,11 @@ What We Do:
 
 1. Clone this repository to your local machine.
 
-```git clone https://github.com/notfounHeiCho/wellnest.git```
+```git clone https://github.com/notfounHeiCho/TechNest.git```
 
 2. Navigate to the project directory.
 
-```cd WellNest```
+```cd TechNest```
 
 ## ©️ License:
 
