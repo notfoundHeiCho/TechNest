@@ -43,7 +43,7 @@ const secretKey = crypto.randomBytes(32).toString("hex");
 const app = express();
 app.use(
   cors({
-    origin: "http://localhost:3000", // Replace with the actual origin of your React app
+    origin: "http://localhost:3000",
   })
 );
 
