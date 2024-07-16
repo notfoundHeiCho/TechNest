@@ -29,7 +29,6 @@ const Dashboard = () => {
     setIsLoading(true);
     setTimeout(() => {
       axios.get("http://localhost:8000/fetch-data").then((response) => {
-        // Handle the retrieved data
         setFitnessData(response.data);
         setIsLoading(false);
       });
@@ -48,10 +47,10 @@ const Dashboard = () => {
   };
 
   const handleClick = () => {
-    navigate("/about"); // Replace "/another-page" with the desired URL
+    navigate("/about"); 
   };
   const handleClick1 = () => {
-    navigate("/contact"); // Replace "/another-page" with the desired URL
+    navigate("/contact"); 
   };
 
   const glucose = fitnessData?.formattedData.map((item) => ({
