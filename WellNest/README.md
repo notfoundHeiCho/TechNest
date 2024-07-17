@@ -32,8 +32,8 @@ WellNest, a comprehensive web application designed to help you manage and improv
 
 ➡️ **Back-End**:
 
-✔️ Python
-✔️ Database: MongoDB
+✔️ Node.js
+✔️ Express.js
 ✔️ APIs: Integration with various health APIs
 
 ## ©️ License:
