@@ -43,7 +43,7 @@ const Home = () => {
   };
   return (
     <div className='html' >
-      
+      <title>WellNest</title>
       <Helmet className="head">
         <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
