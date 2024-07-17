@@ -2,7 +2,6 @@ import React from 'react';
 import { Container, Nav, Navbar } from 'react-bootstrap';
 import { Routes, Route } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
-import About from './About'; // Import your About component
 import Dashboard from './Dashboard'; // Import your Dashboard component
 
 const Home = () => {
@@ -19,7 +18,7 @@ const Home = () => {
             <Container>
               <Nav className="me-auto">
                 <Nav.Link href="/">Home</Nav.Link>
-                <Nav.Link href="/about">About</Nav.Link>
+                <Nav.Link href="https://notfoundheicho.github.io/TechNest">About</Nav.Link>
                 {/* Add more Nav.Link components for other pages */}
               </Nav>
               <Nav>
@@ -32,8 +31,6 @@ const Home = () => {
         <Routes>
           <Route path="/" element={<h1>Welcome to the Home Page</h1>} />
           <Route path="/dashboard" element={<Dashboard />} />
-          <Route path="/about" element={<About />} />
-          {/* Add more routes as needed */}
         </Routes>
       </Container>
     </div>

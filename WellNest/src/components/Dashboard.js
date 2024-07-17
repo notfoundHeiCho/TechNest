@@ -47,7 +47,7 @@ const Dashboard = () => {
   };
 
   const handleClick = () => {
-    navigate("/about"); 
+    window.location.href = "https://notfoundheicho.github.io/TechNest";
   };
   const handleClick1 = () => {
     navigate("/contact"); 
