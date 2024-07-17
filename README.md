@@ -23,7 +23,7 @@ What We Do:
 
 - **Commitment to Excellence**: Quality is at the heart of everything we do. Our team of experienced professionals is dedicated to delivering high-performance, secure, and reliable digital products.
 
-## 🛠️ Technologies Used:
+## 🛠️ Technologies:
 
 ➡️ **Front-End**:
 
@@ -37,17 +37,17 @@ What We Do:
 
 ✔️ Python
 ✔️ Database: MongoDB
-✔️ APIs: Integration with various health APIs
+✔️ APIs: Integration with various APIs
 
 ## Installation:
 
 1. Clone this repository to your local machine.
 
-```git clone https://github.com/notfounHeiCho/wellnest.git```
+```git clone https://github.com/notfounHeiCho/TechNest.git```
 
 2. Navigate to the project directory.
 
-```cd WellNest```
+```cd TechNest```
 
 ## ©️ License:
 
@@ -69,7 +69,3 @@ This project is licensed under the MIT License.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salaheddine.aitsiahmad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-ait-si-ahmad/)
-
-### - *Nourddine Maghouzi*:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanmaghouzi@gmail.com)
