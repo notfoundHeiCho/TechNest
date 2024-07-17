@@ -366,6 +366,19 @@ const saveFitnessDataToAppwrite = async (fitnessData) => {
   }
 };
 
+app.post('/signup', async (req, res) => {
+  const { email, password, displayName } = req.body;
+
+  try {
+    const account = await client.account.create(email, password, displayName);
+    console.log('Account created:', account);
+    res.status(200).json({ message: 'Signup successful', account });
+  } catch (error) {
+    console.error('Error signing up:', error);
+    res.status(500).json({ error: 'Signup failed' });
+  }
+});
+
 app.listen(8000, () => {
   console.log("service listening at 8000");
 });

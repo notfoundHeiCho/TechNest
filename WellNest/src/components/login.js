@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import { Form, FormGroup, FormControl, FormLabel } from 'react-bootstrap';
+import { Form } from 'react-bootstrap';
 import Button from 'react-bootstrap/Button';
 
 const Login = () => {
@@ -16,6 +16,7 @@ const Login = () => {
   };
 
   return (
+    
     <div> <hr />
       <Form style={{ textAlign: 'center' }}>
         <h2>Hello There 🙋‍♂️</h2><br />
@@ -55,26 +56,8 @@ const Login = () => {
             Sign in with Google
           </Button>
         </div>
-        <br /><hr style={{ width: '1250px', margin: 'auto', textAlign: 'center' }} />OR<hr style={{ width: '1250px', margin: 'auto', textAlign: 'center' }} /><br />
-        <FormGroup className="mb-3" controlId="formGroupEmail">
-          <FormLabel>Email address</FormLabel>
-          <FormControl
-            style={{ fontSize: '14px', width: '250px', margin: 'auto', textAlign: 'center' }}
-            type="email"
-            placeholder="Enter email"
-          />
-        </FormGroup>
-        <FormGroup className="mb-3" controlId="formGroupPassword">
-          <FormLabel>Password</FormLabel>
-          <FormControl
-            style={{ fontSize: '14px', width: '250px', margin: 'auto', textAlign: 'center' }}
-            type="password"
-            placeholder="Password"
-          />
-        </FormGroup>
-        <Button>Login</Button>
-        <br />
-        <br />
+        
+        Don't have an Account?<a href="/signup"><u>Register</u></a><br />
         <a href="/"><u>Forgot your password?</u></a>
       </Form>
     </div>
