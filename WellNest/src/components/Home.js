@@ -49,19 +49,18 @@ const Home = () => {
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
       </Helmet>
+      
     <div className='body' id='top'>
-      <header className="header" data-header>
-        <div className="container" >
-          <a href="/" className="logo">
+    <header style={{ background: "#212529" }}  className="header" data-header>        <div className="container" >
+    <a href="/" className="logo">
           <IoPulseSharp aria-hidden="true" style={{color:"red"}} />
             <span className="span" style={{color:"red"}}>WellNest</span>
           </a>
-
-          <nav className="navbar" data-navbar>
+         <nav className="navbar" data-navbar>
             <button className="nav-close-btn" aria-label="close menu" data-nav-toggler>
             <IoCloseSharp aria-hidden="true" />
             </button>
-            <ul className="navbar-list">
+            <ul  className="navbar-list">
               <li>
                 <a href="#home" className="navbar-link active" data-nav-link>Home</a>
               </li>
@@ -71,16 +70,16 @@ const Home = () => {
             </ul>
           </nav>
           <Nav>
-                <Button href="/Login" className='btn-secondary'>Login</Button> 
-                <Button variant="outline-light" href="/signup" className='btn-secondary'>SignUp</Button>
-          </Nav>
+                <Button href="/Login" className='btn-secondary'>Login</Button>       
+        </Nav>
+         
           <button className="nav-open-btn" aria-label="open menu" data-nav-toggler>
             <span className="line"></span>
             <span className="line"></span>
             <span className="line"></span>
           </button>
         </div>
-      </header>
+        </header>
 
       <main>
         <article>
@@ -94,7 +93,7 @@ const Home = () => {
                 <p className="section-text">
                   Taking care of your body is the greatest act of self-love. A healthy outside starts from the inside.
                 </p>
-                <a href="/" className="btn btn-primary">Get Started</a>
+                <a href="/login" className="btn btn-primary">Get Started</a>
               </div>
               <div className="hero-banner">
                 <img src={runbg} width="1060" height="1153" alt="hero banner" className="w-100" style={{ marginLeft: '-90px', marginBottom: '-70px' }} />
