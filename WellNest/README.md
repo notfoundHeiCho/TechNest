@@ -1,6 +1,6 @@
 ## WellNest: Health and Wellness Tracker
 
-<img src="../assets/Logo.png" alt="Logo" width="556" height="250">
+<img src="https://storage.googleapis.com/openscreenshot/0%2Fi%2F5/o4lZVp5i0.png" alt="Logo" width="556" height="250">
 
 ## 🗒️Description:
 
