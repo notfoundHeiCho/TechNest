@@ -128,10 +128,16 @@ const Home = () => {
 
           <section className="section video" aria-label="video">
             <div className="container">
-              <div className="video-card has-before has-bg-image">
-                <iframe id="fitnessVideo" src="https://www.youtube.com/embed/UgkxXQtBzQ_7o4g-P4Z90PtZ3z0vj_dvsEIZ?autoplay=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <a href="https://www.youtube.com/results?search_query=fitness+workout" className="btn-link has-before" target="_blank">Watch More</a>
-              </div>
+            <iframe 
+      id="fitnessVideo" 
+      src="https://www.youtube.com/embed/eAu45W2dHUM" 
+      frameborder="0" 
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+      allowfullscreen 
+      style={{ width: '1000px', height: '500px' }}
+    ></iframe>
+    <a href="https://www.youtube.com/results?search_query=fitness+workout" className="btn-link has-before" target="_blank">Watch More</a>
+             
             </div>
           </section>
 
