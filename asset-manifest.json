@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TechNest/static/css/main.860768fc.css",
-    "main.js": "/TechNest/static/js/main.55f7be60.js",
-    "static/js/453.64be9eb2.chunk.js": "/TechNest/static/js/453.64be9eb2.chunk.js",
-    "static/media/sd.gif": "/TechNest/static/media/sd.84e88c9b2483a706817d.gif",
-    "static/media/runbg.png": "/TechNest/static/media/runbg.8d5c445decc26dbc209c.png",
-    "static/media/aboutbanner.png": "/TechNest/static/media/aboutbanner.fc4cd95dbe6549125984.png",
-    "static/media/fitness.png": "/TechNest/static/media/fitness.d4361143b15c538bbf2e.png",
-    "static/media/calories.svg": "/TechNest/static/media/calories.dfb2d527ad9bead81682947f5022b04a.svg",
-    "static/media/heartrate.svg": "/TechNest/static/media/heartrate.1d04bad43f46b0a6eee14721ea4d2002.svg",
-    "static/media/herocircleone.png": "/TechNest/static/media/herocircleone.9bde31e814e97a6583a2.png",
-    "index.html": "/TechNest/index.html",
-    "main.860768fc.css.map": "/TechNest/static/css/main.860768fc.css.map",
-    "main.55f7be60.js.map": "/TechNest/static/js/main.55f7be60.js.map",
-    "453.64be9eb2.chunk.js.map": "/TechNest/static/js/453.64be9eb2.chunk.js.map"
+    "main.css": "/TechNest/WellNest/static/css/main.860768fc.css",
+    "main.js": "/TechNest/WellNest/static/js/main.ee44c180.js",
+    "static/js/453.64be9eb2.chunk.js": "/TechNest/WellNest/static/js/453.64be9eb2.chunk.js",
+    "static/media/sd.gif": "/TechNest/WellNest/static/media/sd.84e88c9b2483a706817d.gif",
+    "static/media/runbg.png": "/TechNest/WellNest/static/media/runbg.8d5c445decc26dbc209c.png",
+    "static/media/aboutbanner.png": "/TechNest/WellNest/static/media/aboutbanner.fc4cd95dbe6549125984.png",
+    "static/media/fitness.png": "/TechNest/WellNest/static/media/fitness.d4361143b15c538bbf2e.png",
+    "static/media/calories.svg": "/TechNest/WellNest/static/media/calories.dfb2d527ad9bead81682947f5022b04a.svg",
+    "static/media/heartrate.svg": "/TechNest/WellNest/static/media/heartrate.1d04bad43f46b0a6eee14721ea4d2002.svg",
+    "static/media/herocircleone.png": "/TechNest/WellNest/static/media/herocircleone.9bde31e814e97a6583a2.png",
+    "index.html": "/TechNest/WellNest/index.html",
+    "main.860768fc.css.map": "/TechNest/WellNest/static/css/main.860768fc.css.map",
+    "main.ee44c180.js.map": "/TechNest/WellNest/static/js/main.ee44c180.js.map",
+    "453.64be9eb2.chunk.js.map": "/TechNest/WellNest/static/js/453.64be9eb2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.860768fc.css",
-    "static/js/main.55f7be60.js"
+    "static/js/main.ee44c180.js"
   ]
 }
