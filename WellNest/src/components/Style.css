@@ -284,8 +284,8 @@ address { font-style: normal; }
 .section-title { margin-block: 18px 35px; }
 
 .btn-link {
-  --color: var(--white);
-
+  --color: black;
+  margin-right: 1000px;
   color: var(--color);
   font-size: var(--fs-6);
   font-weight: var(--fw-500);
@@ -352,8 +352,7 @@ address { font-style: normal; }
 .header .btn { display: none; }
 
 .header {
-  background-color: var(--white);
-  position: fixed;
+  background-color: var(--black_10);
   top: 0;
   left: 0;
   width: 100%;
@@ -403,9 +402,8 @@ address { font-style: normal; }
 }
 
 .navbar {
-  background-color: var(--coquelicot);
-  color: var(--white);
-  position: fixed;
+  background-color: var(--white);
+  color: #472924;
   top: 100%;
   left: 0;
   width: 100%;
@@ -440,6 +438,7 @@ address { font-style: normal; }
   padding-block: 10px;
   margin-block-end: 20px;
   transition: var(--transition-1);
+  color: gray;
 }
 
 .navbar-link:is(:hover, :focus, .active) { color: var(--rich-black-fogra-29-1); }
