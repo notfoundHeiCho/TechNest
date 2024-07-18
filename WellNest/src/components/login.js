@@ -87,7 +87,7 @@ const Login = () => {
 
 const styles = {
   form: {
-    marginTop: '150px',
+    marginTop: '450px',
     textAlign: 'center',
     backgroundColor: '#fff',
     borderRadius: '10px',
