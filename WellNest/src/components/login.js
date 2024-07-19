@@ -68,7 +68,7 @@ const Login = () => {
         <div style={{ marginTop: "300px" }} className="footer-bottom">
           <div className="container">
             <p className="copyright">
-              &copy; 2024 WellNest. All Rights Reserved By <a href="https://notfoundheicho.github.io/TechNest/" className="copyright-link" target="_blank">TechNest</a>
+              &copy; 2024 WellNest. All Rights Reserved By <a href="https://notfoundheicho.github.io/TechNest/" className="copyright-link" target="_blank" rel="noreferrer">TechNest</a>
             </p>
             <ul className="footer-bottom-list">
               <li>
