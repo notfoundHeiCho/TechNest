@@ -128,7 +128,8 @@ const Home = () => {
 
           <section className="section video" aria-label="video">
             <div className="container">
-            <iframe 
+            <iframe
+      title="WellNest"
       id="fitnessVideo" 
       src="https://www.youtube.com/embed/eAu45W2dHUM" 
       frameborder="0" 
@@ -136,7 +137,7 @@ const Home = () => {
       allowfullscreen 
       style={{ width: '1000px', height: '500px' }}
     ></iframe>
-    <a href="https://www.youtube.com/results?search_query=fitness+workout" className="btn-link has-before" target="_blank">Watch More</a>
+    <a href="https://www.youtube.com/results?search_query=fitness+workout" className="btn-link has-before" target="_blank" rel="noreferrer">Watch More</a>
              
             </div>
           </section>
@@ -149,7 +150,7 @@ const Home = () => {
         <div className="section footer-top bg-dark has-bg-image" style={{ backgroundImage: 'url(./images/footer-bg.png)' }}>
           <div className="container">
             <div className="footer-brand">
-              <a href="#" className="logo">
+              <a href="/" className="logo">
               <IoPulseSharp aria-hidden="true" />
                 <span className="span">WellNest</span>
               </a>
@@ -170,10 +171,10 @@ const Home = () => {
                 <p className="footer-list-title has-before">Our Links</p>
               </li>
               <li>
-                <a href="#" className="footer-link" hidden>Home</a>
+                <a href="/" className="footer-link" hidden>Home</a>
               </li>
               <li>
-                <a href="#" className="footer-link">Home</a>
+                <a href="/" className="footer-link">Home</a>
               </li>
             </ul>
 
@@ -220,17 +221,17 @@ const Home = () => {
               <li>
                 <ul className="social-list">
                   <li>
-                    <a href="#" className="social-link">
+                    <a href="/" className="social-link">
                       <IoLogoFacebook name="logo-facebook"/>
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="social-link">
+                    <a href="/" className="social-link">
                       <IoLogoInstagram name="logo-instagram"/>
                     </a>
                   </li>
                   <li>
-                    <a href="#" className="social-link">
+                    <a href="/" className="social-link">
                       <IoLogoTwitter name="logo-twitter"/>
                     </a>
                   </li>
@@ -243,14 +244,14 @@ const Home = () => {
         <div className="footer-bottom">
           <div className="container">
             <p className="copyright">
-              &copy; 2024 WellNest. All Rights Reserved By <a href="https://notfoundheicho.github.io/TechNest/" className="copyright-link" target="_blank">TechNest</a>
+              &copy; 2024 WellNest. All Rights Reserved By <a href="https://notfoundheicho.github.io/TechNest/" className="copyright-link" target="_blank" rel="noreferrer">TechNest</a>
             </p>
             <ul className="footer-bottom-list">
               <li>
-                <a href="#" className="footer-bottom-link has-before">Privacy Policy</a>
+                <a href="/" className="footer-bottom-link has-before">Privacy Policy</a>
               </li>
               <li>
-                <a href="#" className="footer-bottom-link has-before">Terms & Condition</a>
+                <a href="/" className="footer-bottom-link has-before">Terms & Condition</a>
               </li>
             </ul>
           </div>
